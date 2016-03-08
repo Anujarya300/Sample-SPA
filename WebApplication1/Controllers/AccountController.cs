@@ -19,6 +19,7 @@ namespace WebApplication1.Controllers
         private ApplicationUserManager _userManager;
 
         private string _msg;
+        private string _msg1;
 
         public AccountController()
         {
