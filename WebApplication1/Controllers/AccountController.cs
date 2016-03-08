@@ -31,6 +31,7 @@ namespace WebApplication1.Controllers
             UserManager = userManager;
             SignInManager = signInManager;
             fyufyu = "df";
+            ufbf("re");
         }
 
         public ApplicationSignInManager SignInManager
