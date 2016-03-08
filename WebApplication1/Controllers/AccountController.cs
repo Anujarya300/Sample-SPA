@@ -18,6 +18,8 @@ namespace WebApplication1.Controllers
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
 
+        private string _msg;
+
         public AccountController()
         {
         }
