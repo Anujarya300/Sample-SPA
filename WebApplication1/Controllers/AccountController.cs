@@ -20,7 +20,7 @@ namespace WebApplication1.Controllers
 
         private string _msg;
         private string _msg1;
-        private string _msg2;
+        private string ;
 
         public AccountController()
         {
