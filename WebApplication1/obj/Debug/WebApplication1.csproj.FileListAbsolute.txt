@@ -126,3 +126,5 @@ F:\Test\Sample-SPA\WebApplication1\bin\System.Web.WebPages.Razor.xml
 F:\Test\Sample-SPA\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 F:\Test\Sample-SPA\WebApplication1\obj\Debug\WebApplication1.dll
 F:\Test\Sample-SPA\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\Test\Sample-SPA\WebApplication1\bin\WebApplication1.dll.CodeAnalysisLog.xml
+F:\Test\Sample-SPA\WebApplication1\bin\WebApplication1.dll.lastcodeanalysissucceeded
