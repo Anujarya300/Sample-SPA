@@ -66,8 +66,6 @@ c:\users\anujr\documents\visual studio 2013\Projects\WebApplication1\WebApplicat
 F:\Test\Sample-SPA\WebApplication1\bin\WebApplication1.dll.config
 F:\Test\Sample-SPA\WebApplication1\bin\WebApplication1.dll
 F:\Test\Sample-SPA\WebApplication1\bin\WebApplication1.pdb
-F:\Test\Sample-SPA\WebApplication1\bin\WebApplication1.dll.CodeAnalysisLog.xml
-F:\Test\Sample-SPA\WebApplication1\bin\WebApplication1.dll.lastcodeanalysissucceeded
 F:\Test\Sample-SPA\WebApplication1\bin\Antlr3.Runtime.dll
 F:\Test\Sample-SPA\WebApplication1\bin\EntityFramework.dll
 F:\Test\Sample-SPA\WebApplication1\bin\EntityFramework.SqlServer.dll
