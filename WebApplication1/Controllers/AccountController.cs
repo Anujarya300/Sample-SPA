@@ -23,7 +23,7 @@ namespace WebApplication1.Controllers
 
         public AccountController()
         {
-            _msg1 = "Oceanic World";
+            _msg1 = 2;
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager)
