@@ -30,6 +30,7 @@ namespace WebApplication1.Controllers
         {
             UserManager = userManager;
             SignInManager = signInManager;
+            var t = _msg1;
         }
 
         public ApplicationSignInManager SignInManager
