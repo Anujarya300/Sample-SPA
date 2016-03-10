@@ -1,0 +1,8 @@
+F:\Test\Sample-SPA\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\Test\Sample-SPA\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\Test\Sample-SPA\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\Test\Sample-SPA\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.CodeAnalysisLog.xml
+F:\Test\Sample-SPA\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.lastcodeanalysissucceeded
+F:\Test\Sample-SPA\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\Test\Sample-SPA\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\Test\Sample-SPA\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
